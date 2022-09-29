@@ -7,7 +7,3 @@ coverage
 
 #env
 .env
-
-#babel
-babel.config.json
-is.config.js
