@@ -18,7 +18,7 @@ export class Container {
      * @param {String} name Vaiabel penampung nama model
      */
     set setModuleModelName(name) {
-        this.#userModelName = this.#container.filter((models) => {
+        this.#ModuleModelName = this.#container.filter((models) => {
             return models.name === name
         })
     }

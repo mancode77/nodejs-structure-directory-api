@@ -1,0 +1,13 @@
+# npm
+node_modules
+package-lock.json
+
+# Coveralls
+coverage
+
+#env
+.env
+
+#babel
+babel.config.json
+is.config.js
